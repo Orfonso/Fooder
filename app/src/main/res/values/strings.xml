@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fooder</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="slider_header">Set the distance you would like to search</string>
+    <string name="home">Home</string>
+</resources>

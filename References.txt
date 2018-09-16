@@ -1,0 +1,8 @@
+Overall:
+various developer.android.com guides
+
+Card Swipe:
+https://blog.mindorks.com/android-tinder-swipe-view-example-3eca9b0d4794
+
+Distance slider:
+https://stackoverflow.com/questions/8629535/implementing-a-slider-seekbar-in-android
