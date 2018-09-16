@@ -4,4 +4,6 @@
     <string name="about">About</string>
     <string name="slider_header">Set the distance you would like to search</string>
     <string name="home">Home</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
 </resources>
